@@ -281,7 +281,7 @@ n=n-1;
           }
 
           else{
-          Serial.println("Khatam!! ");
+          Serial.println("End_line!! ");
           }
 input =0;
         }
@@ -604,7 +604,7 @@ m=m-1;
 }
 
  else{
-          Serial.println("Khatam!! ");
+          Serial.println("End_line!! ");
           }
 input =0;
         }
@@ -923,7 +923,7 @@ p=p-1;
 }
 
  else{
-          Serial.println("Khatam!! ");
+          Serial.println("End_line!! ");
           }
 input =0;
         }
